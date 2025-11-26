@@ -613,6 +613,26 @@
     [
       "e707d070-f296-446e-b8a8-131f95fb2b46",
       "Root"
+    ],
+    [
+      "47d45ab9-5f30-48ca-8a5d-6f3d98a6e396",
+      "data_address_input"
+    ],
+    [
+      "6c83435b-5eb0-4576-9725-0c2d64cbb204",
+      "data_address_debug_indicater"
+    ],
+    [
+      "da34f94f-9a34-4433-ae7a-f3a450af1ef9",
+      "input_output"
+    ],
+    [
+      "d9722e00-85e5-410f-9442-e246cf9971bc",
+      "clock_generater"
+    ],
+    [
+      "40656303-8d44-4a2e-99e9-a3176bf13d9c",
+      "graphic_card"
     ]
   ],
   "text_variables": {}
