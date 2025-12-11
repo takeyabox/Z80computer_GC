@@ -633,6 +633,10 @@
     [
       "40656303-8d44-4a2e-99e9-a3176bf13d9c",
       "graphic_card"
+    ],
+    [
+      "2a8c1916-176f-4f11-9a68-d43a9059f7b8",
+      "timing_detector"
     ]
   ],
   "text_variables": {}
