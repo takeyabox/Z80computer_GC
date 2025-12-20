@@ -822,6 +822,10 @@
 		(uuid "fdf74fea-9f1a-4d5b-832b-9ceec1f517db")
 	)
 	(no_connect
+		(at 123.19 158.75)
+		(uuid "129aae5b-9662-42dd-a355-0213e6da7d2c")
+	)
+	(no_connect
 		(at 148.59 41.91)
 		(uuid "1c76c78a-e364-4310-ad2c-d2a5be9ef731")
 	)
@@ -842,8 +846,16 @@
 		(uuid "6c57ad21-2f27-4b25-a4b2-310e9e88b021")
 	)
 	(no_connect
+		(at 123.19 153.67)
+		(uuid "6d445b13-6b71-42ef-92ba-5d7d72379518")
+	)
+	(no_connect
 		(at 148.59 102.87)
 		(uuid "7f6f0000-b8c8-46d1-b1e0-8c52a27b16df")
+	)
+	(no_connect
+		(at 123.19 156.21)
+		(uuid "8ec9ff20-bd6c-43cc-b812-1dc40c368e31")
 	)
 	(no_connect
 		(at 148.59 153.67)
@@ -860,6 +872,10 @@
 	(no_connect
 		(at 148.59 44.45)
 		(uuid "c7c014e3-a9a4-41c4-a103-d72da6fdb047")
+	)
+	(no_connect
+		(at 148.59 163.83)
+		(uuid "d2ce02c7-ced0-42b9-ae81-bc66a38d69c4")
 	)
 	(no_connect
 		(at 148.59 151.13)
@@ -899,15 +915,6 @@
 			(type default)
 		)
 		(uuid "28b9753a-391b-4632-930e-db6b35e07306")
-	)
-	(bus_entry
-		(at 118.11 153.67)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e9a3e02-4ca9-49ea-8840-a9802aa1a763")
 	)
 	(bus_entry
 		(at 118.11 39.37)
@@ -955,15 +962,6 @@
 		(uuid "74b565d9-0cb5-499b-9a84-e3c763cc252d")
 	)
 	(bus_entry
-		(at 118.11 156.21)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87801dbf-9e91-4317-adcc-00c96da3ee64")
-	)
-	(bus_entry
 		(at 118.11 92.71)
 		(size 2.54 2.54)
 		(stroke
@@ -971,15 +969,6 @@
 			(type default)
 		)
 		(uuid "92b1f539-1760-4712-a59f-cb58897a32cb")
-	)
-	(bus_entry
-		(at 118.11 151.13)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e50e0400-89ad-4379-a3d7-8eb1c8bb64fa")
 	)
 	(wire
 		(pts
@@ -1020,16 +1009,6 @@
 			(type default)
 		)
 		(uuid "1e8bc438-eaa0-4fc7-a6b5-aa89d5b5d0ca")
-	)
-	(wire
-		(pts
-			(xy 120.65 156.21) (xy 123.19 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2157b1fd-5ab6-4072-bb4b-31f970770f6f")
 	)
 	(bus
 		(pts
@@ -1111,16 +1090,6 @@
 		)
 		(uuid "603584e4-74d3-4ec7-8380-011b6bb0bef1")
 	)
-	(bus
-		(pts
-			(xy 118.11 151.13) (xy 118.11 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63e05c32-e0b7-4442-b782-e0313426fe72")
-	)
 	(wire
 		(pts
 			(xy 101.6 54.61) (xy 123.19 54.61)
@@ -1150,16 +1119,6 @@
 			(type default)
 		)
 		(uuid "6d32cf4c-d610-4a33-901e-e98a1ee2cc23")
-	)
-	(bus
-		(pts
-			(xy 118.11 148.59) (xy 118.11 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ec19b1f-02df-49bf-956d-6b812acc8b5a")
 	)
 	(wire
 		(pts
@@ -1220,16 +1179,6 @@
 			(type default)
 		)
 		(uuid "7b8bc218-3b92-4037-90a3-d2772b6ddbf2")
-	)
-	(bus
-		(pts
-			(xy 118.11 153.67) (xy 118.11 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9850e289-6890-4b5b-9dc9-51fe6aac2742")
 	)
 	(bus
 		(pts
@@ -1313,16 +1262,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 153.67) (xy 123.19 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce8ccfbf-052a-446d-b197-872efb38a78a")
-	)
-	(wire
-		(pts
 			(xy 101.6 163.83) (xy 123.19 163.83)
 		)
 		(stroke
@@ -1340,16 +1279,6 @@
 			(type default)
 		)
 		(uuid "df74e87e-e8d0-4c38-8c90-2f79b4cd26d7")
-	)
-	(wire
-		(pts
-			(xy 120.65 158.75) (xy 123.19 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1b4f0bd-fe99-4a45-8e53-3f9310a8138d")
 	)
 	(wire
 		(pts
@@ -1471,26 +1400,6 @@
 		)
 		(uuid "5f5747b0-f9cd-464b-a7f2-8efe83725e25")
 	)
-	(label "C10"
-		(at 121.92 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "720956d5-edb7-41de-b04d-79a1f00ff2ad")
-	)
-	(label "C9"
-		(at 121.92 153.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7cb5fa1a-1f77-43d5-b30c-fbb69d43e2aa")
-	)
 	(label "C2"
 		(at 121.92 44.45 0)
 		(effects
@@ -1540,16 +1449,6 @@
 			(justify left bottom)
 		)
 		(uuid "bf716959-a897-47e5-b113-bac9084ce8c9")
-	)
-	(label "C11"
-		(at 121.92 158.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cc19ea6e-8231-4501-b7b7-9e6affba61c2")
 	)
 	(label "C4"
 		(at 121.92 95.25 0)
